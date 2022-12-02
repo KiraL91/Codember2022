@@ -1,5 +1,9 @@
 # Codember 2022
 
+[Codember 2022](https://codember.dev/) is a game with programming and research challenges developed by midudev. People that complete all the  challenges in November 2022, will receive a gift.
+
+You can use any programming language to solve the challenges.
+
 - [Codember 2022](#codember-2022)
   - [Compilation](#compilation)
   - [Challenges](#challenges)
